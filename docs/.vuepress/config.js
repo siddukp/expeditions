@@ -6,6 +6,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
       { text: 'Config Page', link: '/config' },
+      { text: 'Billing', link: '/' },
     ],
   },
   dest: 'public',
